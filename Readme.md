@@ -1,4 +1,4 @@
-# Vention `isBalanced`
+# Library `isBalanced`
 
 A PHP library providing a stack data structure and a utility function to check if a string of parentheses is balanced.
 
