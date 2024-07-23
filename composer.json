@@ -3,7 +3,7 @@
     "description": "This PHP package provides a utility function to check if a string of parentheses is balanced and includes an implementation of a stack data structure.",
     "type": "library",
     "require": {
-        "php": "7.0"
+        "php": ">=7.0"
     },
     "license": "MIT",
     "autoload": {
