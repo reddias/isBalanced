@@ -1,0 +1,21 @@
+{
+    "name": "reddias/is-balanced",
+    "description": "This PHP package provides a utility function to check if a string of parentheses is balanced and includes an implementation of a stack data structure.",
+    "type": "library",
+    "require": {
+        "php": "7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Reddias\\IsBalanced\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "reddias",
+            "email": "saidjonzade@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
